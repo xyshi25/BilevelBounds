@@ -1,1 +1,5 @@
-Instances for Mibs
+Instances that are out of memory with Mibs
+
+Command:
+
+mibs -Alps_instance "$data_folder${file_name}.mps" -MibS_auxiliaryInfoFile "$data_folder${file_name}.txt" -Alps_timeLimit 600 
