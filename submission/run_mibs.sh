@@ -4,7 +4,7 @@
 
 ##########################################################################
 #
-## run experiments for the bilevel vertex cover problem
+## run experiments for the Knapsack Interdiction problem
 #
 ###########################################################################
 
