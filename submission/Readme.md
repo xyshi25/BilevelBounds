@@ -1,14 +1,15 @@
-# A hierarchy of  bounds for bilevel mixed 0--1 programs
+# Mixed Integer Bilevel Optimization with $k$-optimal Follower: A Hierarchy of Bounds
 
 Xueyu Shi, Oleg A. Prokopyev, Ted K. Ralphs
 
 
 ## DESCRIPTION
-The folder contains the code and dataset used in the paper "A hierarchy of  bounds for bilevel mixed 0--1 programs"
+The folder contains the code and dataset used in the paper "Mixed Integer Bilevel Optimization with $k$-optimal Follower: A Hierarchy of Bounds"
 
 The pdf version of the paper is named "Paper_bounds_for_bilevlMIP.pdf" 
 
-The project in Overleaf: https://www.overleaf.com/read/mmzrstqgdzch
+The paper in Optimization Online: http://www.optimization-online.org/DB_HTML/2020/06/7874.html
+
 
 ## SUPPORTED PLATFORMS
 The code should be run in Linux platform
